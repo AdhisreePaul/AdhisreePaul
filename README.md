@@ -7,14 +7,14 @@
 <!-- HERO -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="waving-hand" />
-  <h1 align="center">Hi — I'm <b>Adhisree Paul</b> 👋</h1>
+  <h1 align="center">Hola — I'm <b>Adhisree</b> 👋</h1>
   <p align="center">Final-year student studying Artificial Intelligence & Machine Learning • Full-stack tinkerer </p>
 </p>
 
 ---
 
 ### About
-I'm a college student from West Bengal, focused on AI/ML and full-stack web development — I love building things that learn and create. I also read books in my free time. (Bio summary from my GitHub profile.) :contentReference[oaicite:3]{index=3}
+I'm a college student from West Bengal, focused on AI/ML and full-stack web development — I love building things that learn and create. I also read books in my free time. 
 
 ---
 
@@ -26,8 +26,6 @@ I'm a college student from West Bengal, focused on AI/ML and full-stack web deve
 ---
 
 ### 🧰 Tech & Tools
-> (badges are Shields — paste directly in README for visual badges)
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge)
@@ -67,7 +65,6 @@ I'm a college student from West Bengal, focused on AI/ML and full-stack web deve
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhisreePaul&layout=compact&langs_count=8&theme=radical" alt="Top languages" width="48%"/>
 </p>
 
-> Contribution/Activity graph (fun GIF-style embed you can include):
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=AdhisreePaul&theme=react-dark" alt="contribution graph" />
 </p>
