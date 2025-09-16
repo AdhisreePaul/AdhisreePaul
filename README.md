@@ -8,13 +8,13 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="waving-hand" />
   <h1 align="center">Hi — I'm <b>Adhisree Paul</b> 👋</h1>
-  <p align="center">Third-year student studying Artificial Intelligence & Machine Learning • Full-stack tinkerer • music producer</p>
+  <p align="center">Final-year student studying Artificial Intelligence & Machine Learning • Full-stack tinkerer </p>
 </p>
 
 ---
 
 ### About
-I'm a college student from West Bengal, focused on AI/ML and full-stack web development — I love building things that learn and create. I also produce original music in my free time. (Bio summary from my GitHub profile.) :contentReference[oaicite:3]{index=3}
+I'm a college student from West Bengal, focused on AI/ML and full-stack web development — I love building things that learn and create. I also read books in my free time. (Bio summary from my GitHub profile.) :contentReference[oaicite:3]{index=3}
 
 ---
 
@@ -45,16 +45,12 @@ I'm a college student from West Bengal, focused on AI/ML and full-stack web deve
 
 ---
 
-### 🧪 Example Project Ideas (for repo pins)
-> Short descriptions you can use as pinned repo readmes.
-
 - **nextml-portfolio** – Next.js + React frontend showcasing AI demos (image captioning, small NLP toy), deployed via Vercel. Tech: Next, React, TypeScript, CSS, ML models served from a Python microservice.
 - **django-ml-api** – Django REST API exposing ML endpoints (model inference, metadata). Tech: Django, Python, PostgreSQL, Docker *excluded from README by request*.
 - **cursor-notebook-ai** – Interactive Cursor-style notebook showing step-by-step model training and visualization. Tech: Python, Cursor, Jupyter-style notebooks, ML.
 - **chatassist** – Full-stack chatbot: React frontend, Express backend, MongoDB for conversation storage, integrated with an AI model for responses. Tech: React, Express, MongoDB, Postman collections included.
 - **postgres-analytics** – Small analytics dashboard powered by PostgreSQL + Node/Express APIs + React frontend.
 
-(You can copy these as repo descriptions when creating repos.)
 
 ---
 
@@ -84,18 +80,5 @@ I'm a college student from West Bengal, focused on AI/ML and full-stack web deve
 - LinkedIn: https://www.linkedin.com/in/adhisree-paul/ (link provided)  
 - Instagram: https://www.instagram.com/whysodumb._/ (link provided)
 
----
 
-### 🎯 Aesthetic & inspiration
-I styled this README to be modern, animated and concise — inspired by profiles like Dibyosree, Kaushik2003, Nilanjan Joarder and Atmajo (I took layout + badge + stats inspiration). :contentReference[oaicite:6]{index=6}
-
----
-
-### 🔧 Quick tips to make it sing
-1. Replace the badge links with your preferred color theme on Shields.io if you want different colors.  
-2. Pin the repos you want showcased (the example projects above are great starters).  
-3. Add project GIFs (screenshots or animated demos) into each repo’s README for instant polish.  
-4. If you want, I can generate ready-to-use README templates for each example project (Next.js, Django, Express, Cursor notebook) — say which one first.
-
----
 
