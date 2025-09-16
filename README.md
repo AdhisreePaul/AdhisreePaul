@@ -1,68 +1,78 @@
-<img align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemd2ejU0d3o4NmhuNmtubHQ4am93M21mbDg3NmJscHl0MjU4Z3A0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+# 👋 Hey, I'm Adhisree
+> Third-year AI/ML student • Docker explorer • Music producer from West Bengal, India
 
-###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhisreePaul&layout=compact&hide_border=true)](https://github.com/AdhisreePaul)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdhisreePaul&show_icons=true&count_private=true&hide_border=true)](https://github.com/AdhisreePaul)
 
-<h1 align="center">Hey there, I'm Adhisree 👋</h1>
+---
 
-###
+## ✨ Quick snapshot
+- 🎓 **Third-year student** studying Artificial Intelligence & Machine Learning.  
+- 🐳 **Currently** learning **Docker** and container-based workflows.  
+- 🎶 **Side-project:** I produce **original music** in my free time.  
+*(If you want collabs — I’m game!)*
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/adhisree-paul/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/_frozensaturn_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/frozen_saturn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
+---
 
-###
+## 🛠️ Skills & Toolkit
+**Languages:** Python · JavaScript · TypeScript  
+**Frontend:** React · CSS  
+**Backend / DevOps:** Node.js · Docker · AWS · Firebase  
+**ML / CV:** OpenCV · Python ML stack  
+**Other:** Git, REST APIs
 
-<br clear="both">
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 🚀 Featured / pinned projects
+> (Pinned on my profile — click to explore)
+- **Clatnlti-LAW** — TypeScript project (legal text / NLP experiments)  
+- **chatbotFE** — Frontend for a chatbot (CSS/React)  
+- **Risk-Scoring** — ML project in Python  
+- **leaderboard** — TypeScript leaderboard app  
+- **wallet** — Python experiments  
+- **tenant-blog** — JS/React blog template
 
-###
+_Find full list on my GitHub profile — I keep them experimental and open to contributions._
 
-<p align="left">I'm from West Bengal, India.<br><br>- 🔭 I’m currently in college<br>- 📚 I'm currently learning Docker<br>- ⚡ In my free time, I produce original music</p>
+---
 
-###
+## 🔭 What I'm building / learning
+- Deepening knowledge in **Docker** + container orchestration  
+- Building small end-to-end ML apps (prototype → deploy)  
+- Trying to combine audio production with generative models (fun side experiment)
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+## 🤝 Want to collaborate?
+I’m open to:
+- Small open-source contributions
+- Project collabs blending ML + audio
+- UI/UX-driven ML demos
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-</div>
+---
 
-###
+## 📫 Connect
+- GitHub: [@AdhisreePaul](https://github.com/AdhisreePaul)  
+- LinkedIn: [Adhisree Paul](https://www.linkedin.com/in/adhisree-paul/) *(login required)*  
+- Instagram: [@whysodumb._](https://www.instagram.com/whysodumb._/) *(login required)*  
+- X: [@AdhisreePaul](https://x.com/AdhisreePaul)
 
-<h3 align="left">🔥 My Stats :</h3>
+---
 
-###
+## ⚡ Fun / Misc
+- Based in **West Bengal, India**  
+- Coffee ☕ + Beats 🎧 + Code 🧠 = my flow  
+- Drop a star on projects you like — it fuels motivation 🔥
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrozenSaturn&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="142" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FrozenSaturn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="142" alt="languages graph"  />
-</div>
+---
 
-###
+> #### Try this little trick (adds flair to repo)
+> `![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=AdhisreePaul.AdhisreePaul)`  
+> Add it if you want a cute visitor counter in the README.
+
+---
+
+### ❤️ That’s it — quick notes
+- Replace or adjust any phrasing (I kept things casual & creative).  
+- If you want a **dark themed**, **animated**, or **music-first** variant, I can generate that README next (with subtle CSS/HTML blocks and GIF suggestions).
+
