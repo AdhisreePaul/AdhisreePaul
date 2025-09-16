@@ -1,94 +1,103 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="wave" />
-  Hey — I'm Adhisree Paul
-</h1>
+<!--
+  README for: github.com/AdhisreePaul/AdhisreePaul
+  Purpose: Profile README (cool, animated, highlights requested techs)
+  Notes: Docker intentionally omitted as requested.
+-->
 
+<!-- HERO -->
 <p align="center">
-  <strong>Third-year AI & ML student • Full-Stack dev • Music producer</strong>
-  <br/>
-  <a href="mailto:adhisree.paul59@gmail.com">adhisree.paul59@gmail.com</a> • <a href="https://www.linkedin.com/in/adhisree-paul/">LinkedIn</a> • <a href="https://github.com/AdhisreePaul">GitHub</a> • <a href="https://www.instagram.com/whysodumb._/">Instagram</a> • <a href="https://x.com/AdhisreePaul">X</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="waving-hand" />
+  <h1 align="center">Hi — I'm <b>Adhisree Paul</b> 👋</h1>
+  <p align="center">Third-year student studying Artificial Intelligence & Machine Learning • Full-stack tinkerer • music producer</p>
 </p>
 
 ---
 
-## 🔭 About me
-- 🇮🇳 From West Bengal, India. Third-year B.Tech specialising in AI & ML. :contentReference[oaicite:2]{index=2}  
-- Currently building AI-powered web apps and learning cloud & Docker deployments. :contentReference[oaicite:3]{index=3}  
-- In my free time I produce original music and experiment with sound design — expect sonic easter eggs in projects ⚡. :contentReference[oaicite:4]{index=4}
+### About
+I'm a college student from West Bengal, focused on AI/ML and full-stack web development — I love building things that learn and create. I also produce original music in my free time. (Bio summary from my GitHub profile.) :contentReference[oaicite:3]{index=3}
 
 ---
 
-## 🛠 Tech & Tools
-`Python` `TensorFlow` `Keras` `PyTorch` `React` `Next.js` `Node.js` `Django` `Postgres` `MongoDB` `Docker` `AWS` `TypeScript` `OpenCV` `Stable-Baselines3`
-
-*(badges below are optional — swap with your favourite badge generator)*
-<p>
-  <img src="https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB" /> 
-  <img src="https://img.shields.io/badge/-TensorFlow-FC6A03?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
-</p>
+### 🔭 Currently
+- Learning advanced machine learning workflows and deploying them as usable apps.
+- Building full-stack projects with **Next.js + React** frontends and **Express / Django** backends.
+- Playing with Vector DBs, Cursor-style notebooks and generative AI prototypes.
 
 ---
 
-## 🚀 Current Focus
-- Putting ML models into production (React + Django/Node + Docker). :contentReference[oaicite:5]{index=5}  
-- Reinforcement learning experiments for trading (risk-aware agents). :contentReference[oaicite:6]{index=6}  
-- Creative AI projects with audio and vision.
+### 🧰 Tech & Tools
+> (badges are Shields — paste directly in README for visual badges)
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&style=for-the-badge)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&style=for-the-badge)
+![Cursor](https://img.shields.io/badge/-Cursor-111827?style=for-the-badge)
+![AI/ML](https://img.shields.io/badge/-AI%20%26%20ML-FF6B6B?style=for-the-badge)
 
 ---
 
-## 💼 Experience (highlights)
-- **Software Engineer Intern — Abhinava Innovations** (Aug 2025 - Present)  
-  Built and maintained AI-powered web apps using React + Django; integrated payment APIs and JWT auth; shortened latency by ~20% and delivered 90% of sprint tasks on schedule. :contentReference[oaicite:7]{index=7}
+### 🧪 Example Project Ideas (for repo pins)
+> Short descriptions you can use as pinned repo readmes.
 
-- **AI Intern — CollegeTips.in** (May 2025 - Jun 2025)  
-  Deployed an AI chatbot (Gemini & Dialogflow) for a digital literacy initiative; integrated Google TTS to improve UX and onboarded 50+ elderly users. :contentReference[oaicite:8]{index=8}
+- **nextml-portfolio** – Next.js + React frontend showcasing AI demos (image captioning, small NLP toy), deployed via Vercel. Tech: Next, React, TypeScript, CSS, ML models served from a Python microservice.
+- **django-ml-api** – Django REST API exposing ML endpoints (model inference, metadata). Tech: Django, Python, PostgreSQL, Docker *excluded from README by request*.
+- **cursor-notebook-ai** – Interactive Cursor-style notebook showing step-by-step model training and visualization. Tech: Python, Cursor, Jupyter-style notebooks, ML.
+- **chatassist** – Full-stack chatbot: React frontend, Express backend, MongoDB for conversation storage, integrated with an AI model for responses. Tech: React, Express, MongoDB, Postman collections included.
+- **postgres-analytics** – Small analytics dashboard powered by PostgreSQL + Node/Express APIs + React frontend.
 
-- **Lead UI/UX Designer — FitCoin (Diversion2k25)**  
-  Designed the hackathon UI in 36 hrs using Figma; added interactive elements that boosted engagement. :contentReference[oaicite:9]{index=9}
-
----
-
-## 🔬 Selected Projects
-> Click project names (if you have repos) — I've summarized from your resume.
-
-### 🎯 Beyond Price — Sentiment-Aware RL Trading Agent  
-- Fine-tuned FinBERT for sentiment + PPO RL agents (Stable-Baselines3).  
-- Result: improved Sharpe & Sortino and more robust backtest results. (See repo for notebooks & plots.) :contentReference[oaicite:10]{index=10}
-
-### 🖼 Classy.img — Real-time Image Classifier (React + Flask)  
-- ResNet50 (Keras/TensorFlow) for real-time video frame classification; UI in React with live prediction overlay (~90% accuracy). :contentReference[oaicite:11]{index=11}
-
-### 🕹 FitCoin — Hackathon UI/UX  
-- Designed interactive games and flows; improved engagement by ~30% during demo. :contentReference[oaicite:12]{index=12}
-
-> _Want these as cards?_ Use GitHub repo cards or embed GIF demos (below I show how).
+(You can copy these as repo descriptions when creating repos.)
 
 ---
 
-## ✨ Fun & Flair
-- Music producer — sometimes code + synth = new side-projects.  
-- Prefer small, polished side-projects over huge half-finished ones. :contentReference[oaicite:13]{index=13}
+### ✨ GIF showcase (use these inside project READMEs)
+- Typing / building vibe: `https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif`
+- Brain / AI vibe: `https://media.giphy.com/media/5t9Ic4e9gAnlW/giphy.gif`
+- Celebration: `https://media.giphy.com/media/111ebonMs90YLu/giphy.gif`
 
 ---
 
-## 📊 GitHub Stats & Activity
-<!-- GitHub Readme Stats cards (uncomment if you want them) -->
+### 📊 GitHub stats & activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdhisreePaul&show_icons=true&theme=radical" alt="Adhisree's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhisreePaul&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdhisreePaul&show_icons=true&theme=radical" alt="Adhisree's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhisreePaul&layout=compact&langs_count=8&theme=radical" alt="Top languages" width="48%"/>
+</p>
+
+> Contribution/Activity graph (fun GIF-style embed you can include):
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=AdhisreePaul&theme=react-dark" alt="contribution graph" />
 </p>
 
 ---
 
-## 🎬 GIF / Demo examples (copy & paste)
-- Wave / intro: `https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif`  
-- Code-typing demo GIF: `https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif`  
-- Music / synth loop GIF: `https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif`
+### 📫 Contact & socials
+- GitHub: [AdhisreePaul](https://github.com/AdhisreePaul). :contentReference[oaicite:4]{index=4}  
+- X: [@AdhisreePaul](https://x.com/AdhisreePaul) — joined Dec 2020. :contentReference[oaicite:5]{index=5}  
+- LinkedIn: https://www.linkedin.com/in/adhisree-paul/ (link provided)  
+- Instagram: https://www.instagram.com/whysodumb._/ (link provided)
 
-Embed demo GIF in a project section:
-```md
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="700" alt="project demo" />
-</p>
+---
+
+### 🎯 Aesthetic & inspiration
+I styled this README to be modern, animated and concise — inspired by profiles like Dibyosree, Kaushik2003, Nilanjan Joarder and Atmajo (I took layout + badge + stats inspiration). :contentReference[oaicite:6]{index=6}
+
+---
+
+### 🔧 Quick tips to make it sing
+1. Replace the badge links with your preferred color theme on Shields.io if you want different colors.  
+2. Pin the repos you want showcased (the example projects above are great starters).  
+3. Add project GIFs (screenshots or animated demos) into each repo’s README for instant polish.  
+4. If you want, I can generate ready-to-use README templates for each example project (Next.js, Django, Express, Cursor notebook) — say which one first.
+
+---
+
+✨ _Made with :sparkles: for your GitHub profile. Copy this into `AdhisreePaul/AdhisreePaul/README.md` and tweak anything — especially the project names & GIFs — to match your work._
+
