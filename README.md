@@ -99,5 +99,3 @@ I styled this README to be modern, animated and concise — inspired by profiles
 
 ---
 
-✨ _Made with :sparkles: for your GitHub profile. Copy this into `AdhisreePaul/AdhisreePaul/README.md` and tweak anything — especially the project names & GIFs — to match your work._
-
