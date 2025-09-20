@@ -72,10 +72,10 @@ I'm a college student from West Bengal, focused on AI/ML and full-stack web deve
 ---
 
 ### 📫 Contact & socials
-- GitHub: [AdhisreePaul](https://github.com/AdhisreePaul). :contentReference[oaicite:4]{index=4}  
-- X: [@AdhisreePaul](https://x.com/AdhisreePaul) — joined Dec 2020. :contentReference[oaicite:5]{index=5}  
-- LinkedIn: https://www.linkedin.com/in/adhisree-paul/ (link provided)  
-- Instagram: https://www.instagram.com/whysodumb._/ (link provided)
+- GitHub: [AdhisreePaul](https://github.com/AdhisreePaul)
+- X: [@AdhisreePaul](https://x.com/AdhisreePaul)  
+- LinkedIn: https://www.linkedin.com/in/adhisree-paul/ 
+- Instagram: https://www.instagram.com/whysodumb._/ 
 
 
 
