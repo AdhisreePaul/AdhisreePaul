@@ -49,14 +49,6 @@ I'm a college student from West Bengal, focused on AI/ML and full-stack web deve
 - **chatassist** – Full-stack chatbot: React frontend, Express backend, MongoDB for conversation storage, integrated with an AI model for responses. Tech: React, Express, MongoDB, Postman collections included.
 - **postgres-analytics** – Small analytics dashboard powered by PostgreSQL + Node/Express APIs + React frontend.
 
-
----
-
-### ✨ GIF showcase (use these inside project READMEs)
-- Typing / building vibe: `https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif`
-- Brain / AI vibe: `https://media.giphy.com/media/5t9Ic4e9gAnlW/giphy.gif`
-- Celebration: `https://media.giphy.com/media/111ebonMs90YLu/giphy.gif`
-
 ---
 
 ### 📊 GitHub stats & activity
